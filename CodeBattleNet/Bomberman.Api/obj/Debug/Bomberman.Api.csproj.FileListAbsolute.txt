@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\bin\Debug\Bomberman.Api.dll
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\bin\Debug\Bomberman.Api.pdb
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\bin\Debug\websocket-sharp.dll
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\bin\Debug\websocket-sharp.xml
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\obj\Debug\Bomberman.Api.csprojAssemblyReference.cache
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\obj\Debug\Bomberman.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\obj\Debug\Bomberman.Api.csproj.CopyComplete
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\obj\Debug\Bomberman.Api.dll
+C:\Users\User\Desktop\codebattle-bomberman-clients-2020-master\CodeBattleNet\Bomberman.Api\obj\Debug\Bomberman.Api.pdb
